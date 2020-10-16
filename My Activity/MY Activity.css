@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: yellow;
+}
+
+div {
+    border: 5px blue solid;
+    margin-bottom: 2rem;
+    background-color: gold;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid blue;
+}
+
+p {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+ul {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+ul a:link {
+    font-weight: bolder;
+    text-decoration: none;
+    color: navy;
+    font-size: 2rem;
+}
+
+ol a:link {
+    font-weight: bolder;
+    text-decoration: none;
+    color: navy;
+    font-size: 2rem;
+}
+
+ol {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+a:visited {
+    color:blue;
+    background-color: gold;
+}
+
+a:hover {
+    color: gold;
+    text-decoration: none;
+    background-color:black;
+}
+
